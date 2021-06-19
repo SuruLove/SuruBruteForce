@@ -14,9 +14,9 @@
 
 ```pkg install git```
 
-```git clone https://github.com/AmshenShanu07/HackPhiles.git```
+```git clone https://github.com/SuruLove/SuruBruteForce.git```
 
-```cd HackPhiles```
+```cd SuruBruteForce```
 
 ```chmod +x *```
 
