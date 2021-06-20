@@ -3,7 +3,7 @@ banner() {
 printf "\e[1;77m         _____
 printf "\e[1;77m        / ____|                     \e[97m\n"
 printf "\e[1;77m       | (___  _   _ _ __ _   _     \e[97m\n"
-printf "\e[1;77m        \___ \| | | | '__| | | |    \e[97m\n"
+printf "\e[1;77m        \___ \  | | | '__| | | |    \e[97m\n"
 printf "\e[1;77m        ____) | |_| | |  | |_| |    \e[97m\n"
 printf "\e[1;77m       |_____/ \__,_|_|   \__,_|    \e[97m\n"
 printf "\n"
